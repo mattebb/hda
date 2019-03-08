@@ -4,6 +4,8 @@ Volume Smear is like a directional blur for volumes (3D or 2D). The blur directi
 
 It's also possible to use custom filter kernels supplied as additional input vector volumes. This will weight the blur samples by the x axis of the volume, allowing you to have custom intensity falloffs or colour shifting.
 
+Example hip file: https://github.com/mattebb/hda/raw/master/examples/volume_smear.hiplc
+
 Surface SDF field generated from a particle system, smeared along simulation velocity vectors:
 
 ![Smeared particle surface](https://github.com/mattebb/hda/raw/master/examples/images/volume_smear_particles.jpg)
