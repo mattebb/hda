@@ -13,3 +13,7 @@ A 2D colour vector volume smeared by a directional noise field
 Using a colour spectrum ramp as a custom filter kernel.
 
 ![Custom filter (spectrum ramp)](https://github.com/mattebb/hda/raw/master/examples/images/volume_smear_spectrum.gif)
+
+A 3D colour vector volume (mandril) smeared with a refractive crystal effect, using a custom filter kernel
+
+![Custom filter (spectrum ramp)](https://github.com/mattebb/hda/raw/master/examples/images/volume_smear_spectrum.gif)
